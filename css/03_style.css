@@ -1,0 +1,111 @@
+
+html{
+    height: 100px;
+}
+
+#nanna_brikner{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Heebo', sans-serif;
+    background-size: 50ps 0px 100px;
+}
+
+
+#forside{
+    font-size: 28px;
+}
+
+#infotekst{
+    display: flex;
+    background-color: rgba(158, 137, 110, 0.568);
+padding: 10px 10px 15px 10px;
+margin-left: 20px;
+margin-right: 850px;
+font-family: 'Heebo', sans-serif;}
+
+nav{
+    text-align: center;
+    padding: 14px 0px;
+       }
+    nav a{
+        text-decoration: none;
+        font-size: 20px;
+        padding: 70px;
+        color: black;
+        font-family: 'Heebo', sans-serif;
+    }
+
+    #navigation{
+        background-color: rgba(255, 255, 255, 0.185);
+    border-radius: 10% 10%;
+    }
+
+    body{
+        background-color: rgba(110, 88, 67, 0.568);
+    }
+
+.ommig{
+    background-color: rgba(158, 137, 110, 0.568);
+padding: 10px 10px 15px 10px;
+margin-left: 20px;
+margin-right: 850px;
+font-family: 'Heebo', sans-serif;
+}
+
+
+.kompetencer{
+    background-color: rgba(158, 137, 110, 0.568);
+padding: 10px 10px 15px 10px;
+margin-left: 20px;
+margin-right: 850px;
+font-family: 'Heebo', sans-serif;
+}
+
+.kontakt{
+    background-color: rgba(158, 137, 110, 0.568);
+padding: 10px 10px 15px 10px;
+margin-left: 20px;
+margin-right: 850px;
+font-family: 'Heebo', sans-serif;
+}
+
+    img{
+        display: flexbox;
+height: 500px;
+width: 400px;
+    }
+
+
+
+    #forsidetext{
+        font-size: 100px;
+        font-family: 'Heebo', sans-serif;
+    }
+
+    .phototext{
+background-color: rgba(158, 137, 110, 0.568);
+padding: 10px 10px 15px 10px;
+margin-left: 20px;
+margin-right: 850px;
+font-family: 'Heebo', sans-serif;
+    }
+
+#flow_et{
+    max-width: 150px;
+}
+
+
+#form1{
+    background-color: rgba(129, 119, 96, 0.582);
+    font-family: 'Heebo', sans-serif;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+#kontaktinfo{
+    font-family: 'Heebo', sans-serif;
+    font-size: 20px;
+}
+
+.logo{
+    font-size: 40px;
+}
